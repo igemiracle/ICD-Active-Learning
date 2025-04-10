@@ -1,0 +1,23 @@
+Training Summary Report
+=====================
+
+Date and Time: 2025-04-10 13:24:33
+Number of samples: 1000
+Number of features: 100
+Number of codes (labels): 20
+Number of folds: 5
+
+Average Metrics:
+  micro_f1: 0.4019
+  macro_f1: 0.2932
+  micro_precision: 0.5155
+  macro_precision: 0.3893
+  micro_recall: 0.3298
+  macro_recall: 0.2436
+  train_time: 1.7009
+
+Best Model:
+  Found in fold: 1
+  Micro F1: 0.4224
+
+Total execution time: 0h 0m 11.31s
