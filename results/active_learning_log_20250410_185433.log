@@ -1,0 +1,21 @@
+2025-04-10 18:54:33,068 - INFO - Loading data...
+2025-04-10 18:54:38,141 - INFO - Iteration 1/10 | labeled size: 100
+2025-04-10 18:55:00,374 - INFO - Micro-F1: 0.0166 | Macro-F1: 0.0024
+2025-04-10 18:55:02,662 - INFO - Iteration 2/10 | labeled size: 200
+2025-04-10 18:55:25,253 - INFO - Micro-F1: 0.0469 | Macro-F1: 0.0058
+2025-04-10 18:55:26,813 - INFO - Iteration 3/10 | labeled size: 300
+2025-04-10 18:55:51,629 - INFO - Micro-F1: 0.0460 | Macro-F1: 0.0062
+2025-04-10 18:55:52,937 - INFO - Iteration 4/10 | labeled size: 400
+2025-04-10 18:56:20,274 - INFO - Micro-F1: 0.0619 | Macro-F1: 0.0114
+2025-04-10 18:56:21,545 - INFO - Iteration 5/10 | labeled size: 500
+2025-04-10 18:56:50,449 - INFO - Micro-F1: 0.0703 | Macro-F1: 0.0144
+2025-04-10 18:56:51,407 - INFO - Iteration 6/10 | labeled size: 600
+2025-04-10 18:57:22,390 - INFO - Micro-F1: 0.0819 | Macro-F1: 0.0202
+2025-04-10 18:57:23,181 - INFO - Iteration 7/10 | labeled size: 700
+2025-04-10 18:57:56,369 - INFO - Micro-F1: 0.0922 | Macro-F1: 0.0232
+2025-04-10 18:57:56,983 - INFO - Iteration 8/10 | labeled size: 800
+2025-04-10 18:58:32,179 - INFO - Micro-F1: 0.0980 | Macro-F1: 0.0251
+2025-04-10 18:58:32,525 - INFO - Iteration 9/10 | labeled size: 900
+2025-04-10 18:59:09,138 - INFO - Micro-F1: 0.1041 | Macro-F1: 0.0282
+2025-04-10 18:59:09,352 - INFO - Iteration 10/10 | labeled size: 1000
+2025-04-10 18:59:48,063 - INFO - Micro-F1: 0.1082 | Macro-F1: 0.0299
